@@ -5,17 +5,12 @@ Each project reflects an end-to-end analytics workflow: **raw data → transform
 
 ## Table of Contents
 
-1. DAX_PowerBI_Analysis
-
-2. Netflix_PowerQuery
-
-3. Data_Wrangling_PowerQuery
-
-4. StudentManagementSystem
-
-5. Advanced_SQL_Forensic_Analysis
-
-6. Core Skills & Tools
+1. [DAX_PowerBI_Analysis](#DAX_PowerBI_Analysis)
+2. [Netflix_PowerQuery](#netflix_powerquery)
+3. [Data_Wrangling_PowerQuery](#data_wrangling_powerquery)
+4. [StudentManagementSystem](#studentmanagementsystem)
+5. [Advanced_SQL_Forensic_Analysis](#advanced_sql_forensic_analysis)
+6. [Core Skills & Tools](#core-skills--tools)
 
 # DAX_PowerBI_Analysis
 
@@ -87,7 +82,9 @@ The final **Power BI Dashboard** features:
 ---
 
 # Netflix_PowerQuery
+
 # ![Netflix](assets/NetFlix.png)
+
 ## Project Overview
 
 An exploratory and analytical project on the **Netflix Titles Dataset (8,807 records)** aimed at transforming inconsistent metadata into insights on global content strategy and growth trends.
