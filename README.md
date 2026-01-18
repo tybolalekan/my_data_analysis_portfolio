@@ -1,9 +1,9 @@
+# ![Portfolio Banner](assets/Banner_portfolio.png)
+
 # my_data_analysis_portfolio
 
-A curated portfolio of **data analysis, business intelligence, and SQL projects** demonstrating real-world problem solving using Power BI, DAX, Power Query, SQL, and Python.  
+A curated portfolio of **data analysis, business intelligence, and SQL projects** demonstrating real-world problem solving using Power BI, DAX, Power Query, and SQL.  
 Each project reflects an end-to-end analytics workflow: **raw data → transformation → modeling → insight generation**.
-
-
 
 ## Table of Contents
 
@@ -18,8 +18,6 @@ Each project reflects an end-to-end analytics workflow: **raw data → transform
 5. Advanced_SQL_Forensic_Analysis
 
 6. Core Skills & Tools
-
-
 
 # DAX_PowerBI_Analysis
 
@@ -60,12 +58,11 @@ Advanced **DAX (Data Analysis Expressions)** was the core of this project, enabl
 - **Time Intelligence**: Built specialized measures using **DAX Time Intelligence functions** (e.g., YoY growth, MTD/YTD figures) to track survey results over multiple periods.
 
 - **Calculated Measures**: Created high-impact metrics (Add measures) to quantify:
+1.     Average Job Satisfaction vs. Training Hours.
 
-    - Average Job Satisfaction vs. Training Hours.
+2.     Work-Life Balance scores by Department and Job Level.
 
-    - Work-Life Balance scores by Department and Job Level.
-
-    - Correlation between Stress levels and Sleep hours.
+3.     Correlation between Stress levels and Sleep hours.
 
 ### 3. Visualizations & Insights
 
@@ -136,10 +133,6 @@ The cleaned data was modeled and visualized in **Power BI** to uncover key busin
 ## Conclusion
 
 The project demonstrates the ability to manage complex data cleaning tasks using **Power Query** and deliver professional-grade business intelligence through **Power BI**, turning unstructured metadata into strategic insights.
-
-
-
-
 
 # Data_Wrangling_PowerQuery
 
@@ -473,8 +466,6 @@ The project features a modular architecture of **13 SQL scripts**, taking the in
 ---
 
 ---
-
-
 
 ## Core Skills & Tools
 
