@@ -411,3 +411,12 @@ The project features a modular architecture of **13 SQL scripts**, taking the in
 - Building scalable, well-documented analytics solutions
 
 - Strong focus on clarity, performance, and business relevance
+
+
+**Contact Details**
+
+**E-Mail Address:** tybolalekan@yahoo.com.au
+
+**Mobile:** +234(0)8137995448
+
+**Linkedin:** https://www.linkedin.com/in/toyyib-olalekan-66013a6b/
