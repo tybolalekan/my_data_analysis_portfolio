@@ -1,5 +1,26 @@
 # my_data_analysis_portfolio
 
+A curated portfolio of **data analysis, business intelligence, and SQL projects** demonstrating real-world problem solving using Power BI, DAX, Power Query, SQL, and Python.  
+Each project reflects an end-to-end analytics workflow: **raw data → transformation → modeling → insight generation**.
+
+
+
+## Table of Contents
+
+1. DAX_PowerBI_Analysis
+
+2. Netflix_PowerQuery
+
+3. Data_Wrangling_PowerQuery
+
+4. StudentManagementSystem
+
+5. Advanced_SQL_Forensic_Analysis
+
+6. Core Skills & Tools
+
+
+
 # DAX_PowerBI_Analysis
 
 ##### HR Analytics Portfolio: Employee Satisfaction & Work-Life Balance
@@ -74,15 +95,11 @@ The final **Power BI Dashboard** features:
 
 ---
 
-
-
-
-
 # Netflix_PowerQuery
 
 ## Project Overview
 
-This project involved a comprehensive analysis of the **Netflix Titles Dataset** (8,807 records). The primary goal was to transform raw, inconsistent data into actionable insights regarding content strategy, global production trends, and library growth.
+An exploratory and analytical project on the **Netflix Titles Dataset (8,807 records)** aimed at transforming inconsistent metadata into insights on global content strategy and growth trends.
 
 ## Technical Implementation
 
@@ -118,7 +135,11 @@ The cleaned data was modeled and visualized in **Power BI** to uncover key busin
 
 ## Conclusion
 
-This project demonstrates the ability to manage complex data cleaning tasks using **Power Query** and deliver professional-grade business intelligence through **Power BI**, turning unstructured metadata into strategic insights.
+The project demonstrates the ability to manage complex data cleaning tasks using **Power Query** and deliver professional-grade business intelligence through **Power BI**, turning unstructured metadata into strategic insights.
+
+
+
+
 
 # Data_Wrangling_PowerQuery
 
@@ -181,8 +202,6 @@ To go beyond simple aggregations, I developed custom **DAX (Data Analysis Expres
 3. **Proactive Inventory Management**: Dashboard highlighting "Dead Stock" candidates allows for immediate liquidation planning.
 
 --- 
-
-
 
 # StudentManagementSystem
 
@@ -301,8 +320,6 @@ erDiagram
     }
 ```
 
-
-
 ## Analytical Insights (SQL)
 
 The system isn't just for storage; it's built for analysis. Below are examples of key business questions solved using T-SQL.
@@ -370,8 +387,6 @@ HAVING COUNT(e.CourseID) > 1;
 4. Open [QUERIES.sql](./QUERIES.sql) to view insights.
 
 ---
-
-
 
 # Advanced_SQL_Forensic_Analysis
 
@@ -453,8 +468,36 @@ The project features a modular architecture of **13 SQL scripts**, taking the in
 
 2. **Analysis**: Individual scripts for vault access, call logs, and alibi validation.
 
-3. **Resolution**: A final "Identify Killer" script that synthesizes all scores into a definitive conclusion.
+3. **Resolution**: A final "Identify Killer" SQL script that synthesizes all scores into a definitive conclusion.
 
 ---
 
 ---
+
+
+
+## Core Skills & Tools
+
+### Analytics & BI
+
+- Business intelligence dashboard design
+
+- KPI development and storytelling
+
+- Insight-driven reporting
+
+### Technical Skills
+
+- Power BI: DAX, data modeling, visualization
+
+- Power Query: ETL, M language transformations
+
+- SQL: Advanced querying, relational modeling
+
+### Professional Strengths
+
+- Translating complex data into actionable insights
+
+- Building scalable, well-documented analytics solutions
+
+- Strong focus on clarity, performance, and business relevance
