@@ -1,7 +1,5 @@
 # ![Portfolio Banner](assets/Banner_portfolio.png)
 
-# my_data_analysis_portfolio
-
 A curated portfolio of **data analysis, business intelligence, and SQL projects** demonstrating real-world problem solving using Power BI, DAX, Power Query, and SQL.  
 Each project reflects an end-to-end analytics workflow: **raw data → transformation → modeling → insight generation**.
 
@@ -76,19 +74,15 @@ The final **Power BI Dashboard** features:
 
 ## Key DAX Functions Leveraged
 
-| Category | Functions Used |
+**Table Manipulation** `SELECTCOLUMNS`, `ADDCOLUMNS`, `CALENDAR` 
 
-| :--- | :--- |
+**Iterators**  `SUMX`, `AGGREGATEX` 
 
-| **Table Manipulation** | `SELECTCOLUMNS`, `ADDCOLUMNS`, `CALENDAR` |
+**Logical & Conditional**  `SWITCH`, `IF`, `AND`, `OR` 
 
-| **Iterators** | `SUMX`, `AGGREGATEX` |
+**Time Intelligence**  `TOTALYTD`, `SAMEPERIODLASTYEAR`, `DATEADD` 
 
-| **Logical & Conditional** | `SWITCH`, `IF`, `AND`, `OR` |
-
-| **Time Intelligence** | `TOTALYTD`, `SAMEPERIODLASTYEAR`, `DATEADD` |
-
-| **Date & Time** | `DATE`, `YEAR`, `MONTH`, `QUARTER` |
+**Date & Time**  `DATE`, `YEAR`, `MONTH`, `QUARTER` 
 
 ---
 
