@@ -87,7 +87,7 @@ The final **Power BI Dashboard** features:
 ---
 
 # Netflix_PowerQuery
-
+# ![Netflix](assets/NetFlix.png)
 ## Project Overview
 
 An exploratory and analytical project on the **Netflix Titles Dataset (8,807 records)** aimed at transforming inconsistent metadata into insights on global content strategy and growth trends.
