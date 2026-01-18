@@ -1,5 +1,9 @@
 # ![Portfolio Banner](assets/Banner_portfolio.png)
+## 📧 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toyyib-olalekan-66013a6b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tybolalekan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tybolalekan@yahoo.com.au)
 A curated portfolio of **data analysis, business intelligence, and SQL projects** demonstrating real-world problem solving using Power BI, DAX, Power Query, and SQL.  
 Each project reflects an end-to-end analytics workflow: **raw data → transformation → modeling → insight generation**.
 
