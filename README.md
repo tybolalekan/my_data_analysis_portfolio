@@ -20,6 +20,7 @@ Each project reflects an end-to-end analytics workflow: **raw data → transform
 # DAX_PowerBI_Analysis
 
 ##### HR Analytics Portfolio: Employee Satisfaction & Work-Life Balance
+#### Repository:https://github.com/tybolalekan/DAX_PowerBI_Analysis
 
 ## Project Overview
 
@@ -89,7 +90,7 @@ The final **Power BI Dashboard** features:
 # Netflix_PowerQuery
 
 # ![Netflix](assets/NetFlix.png)
-
+#### Repository:https://github.com/tybolalekan/NetFlix_PowerQuery
 ## Project Overview
 
 An exploratory and analytical project on the **Netflix Titles Dataset (8,807 records)** aimed at transforming inconsistent metadata into insights on global content strategy and growth trends.
@@ -131,7 +132,7 @@ The cleaned data was modeled and visualized in **Power BI** to uncover key busin
 The project demonstrates the ability to manage complex data cleaning tasks using **Power Query** and deliver professional-grade business intelligence through **Power BI**, turning unstructured metadata into strategic insights.
 
 # Data_Wrangling_PowerQuery
-
+#### Repository:https://github.com/tybolalekan/Data_Wrangling_PowerQuery
 ## Overview
 
 This project showcases the development of an interactive Business Intelligence (BI) solution using **Power BI** and **Power Query**. The goal was to transform raw, fragmented sales data into a high-performance dashboard that provides real-time strategic insights for an international apparel brand.
@@ -193,7 +194,7 @@ To go beyond simple aggregations, I developed custom **DAX (Data Analysis Expres
 --- 
 
 # StudentManagementSystem
-
+#### Repository:https://github.com/tybolalekan/StudentsManagementSystem
 The primary
 objective of this project is to design and create a relational database for a
 Student Management System (SMS) using SQL. The database should efficiently
@@ -306,7 +307,7 @@ HAVING COUNT(e.CourseID) > 1;
 ---
 
 # Advanced_SQL_Forensic_Analysis
-
+#### Repository:https://github.com/tybolalekan/advanced_sql_forensic_analysis
 Welcome to the **Roland Greene Murder Investigation**. This project is a comprehensive technical case study demonstrating the power of **Relational Database Management Systems (RDBMS)** and **T-SQL** in solving complex, multi-layered problems.
 
 ---
