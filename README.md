@@ -8,14 +8,36 @@
 A curated portfolio of **data analysis, business intelligence, and SQL projects** demonstrating real-world problem solving using Power BI, DAX, Power Query, and SQL.  
 Each project reflects an end-to-end analytics workflow: **raw data → transformation → modeling → insight generation**.
 
+## 🎓 Professional Experience
+
+### Data Analysis Intern — LearnWithWida  
+**Internship**
+
+Completed a hands-on data analysis internship focused on solving real-world business problems using structured datasets. Gained practical experience across the full analytics lifecycle including data cleaning, exploratory analysis, modeling, and insight communication.
+
+**Key Contributions**
+- Cleaned and transformed raw datasets using SQL, Excel, and Power Query
+- Performed exploratory data analysis (EDA) to uncover trends, patterns, and anomalies
+- Built analytical reports and dashboards to communicate insights clearly
+- Applied statistical reasoning to support data-driven decision making
+
+**Tools & Technologies**
+- SQL
+- Power BI (DAX, Power Query)
+- Excel / Google Sheets
+- Basic Statistics
+
+🔗 **Organization:** https://learnwithwida.com/
+
 ## Table of Contents
 
-1. [DAX_PowerBI_Analysis](#DAX_PowerBI_Analysis)
-2. [Netflix_PowerQuery](#netflix_powerquery)
-3. [Data_Wrangling_PowerQuery](#data_wrangling_powerquery)
-4. [StudentManagementSystem](#studentmanagementsystem)
-5. [Advanced_SQL_Forensic_Analysis](#advanced_sql_forensic_analysis)
-6. [Core Skills & Tools](#core-skills--tools)
+1. [Professional Experience](#-professional-experience)
+2. [DAX_PowerBI_Analysis](#DAX_PowerBI_Analysis)
+3. [Netflix_PowerQuery](#netflix_powerquery)
+4. [Data_Wrangling_PowerQuery](#data_wrangling_powerquery)
+5. [StudentManagementSystem](#studentmanagementsystem)
+6. [Advanced_SQL_Forensic_Analysis](#advanced_sql_forensic_analysis)
+7. [Core Skills & Tools](#core-skills--tools)
 
 # DAX_PowerBI_Analysis
 
@@ -86,6 +108,9 @@ The final **Power BI Dashboard** features:
 **Date & Time**  `DATE`, `YEAR`, `MONTH`, `QUARTER` 
 
 ---
+This project was completed as part of my professional data analysis training and internship experience.
+---
+
 
 # Netflix_PowerQuery
 
@@ -130,6 +155,7 @@ The cleaned data was modeled and visualized in **Power BI** to uncover key busin
 ## Conclusion
 
 The project demonstrates the ability to manage complex data cleaning tasks using **Power Query** and deliver professional-grade business intelligence through **Power BI**, turning unstructured metadata into strategic insights.
+This project was completed as part of my professional data analysis training and internship experience.
 
 # Data_Wrangling_PowerQuery
 #### Repository:https://github.com/tybolalekan/Data_Wrangling_PowerQuery
@@ -192,6 +218,9 @@ To go beyond simple aggregations, I developed custom **DAX (Data Analysis Expres
 3. **Proactive Inventory Management**: Dashboard highlighting "Dead Stock" candidates allows for immediate liquidation planning.
 
 --- 
+This project was completed as part of my professional data analysis training and internship experience.
+---
+
 
 # StudentManagementSystem
 #### Repository:https://github.com/tybolalekan/StudentsManagementSystem
@@ -305,6 +334,8 @@ HAVING COUNT(e.CourseID) > 1;
 4. Open [QUERIES.sql](./QUERIES.sql) to view insights.
 
 ---
+This project was completed as part of my professional data analysis training and internship experience.
+---
 
 # Advanced_SQL_Forensic_Analysis
 #### Repository:https://github.com/tybolalekan/advanced_sql_forensic_analysis
@@ -389,6 +420,7 @@ The project features a modular architecture of **13 SQL scripts**, taking the in
 3. **Resolution**: A final "Identify Killer" SQL script that synthesizes all scores into a definitive conclusion.
 
 ---
+This project was completed as part of my professional data analysis training and internship experience.
 
 ---
 
@@ -417,6 +449,8 @@ The project features a modular architecture of **13 SQL scripts**, taking the in
 - Building scalable, well-documented analytics solutions
 
 - Strong focus on clarity, performance, and business relevance
+
+
 
 
 ## 📧 Connect With Me
